@@ -12,4 +12,5 @@ tabulate
 IPython
 pydotplus
 dtreeviz
+scipy
 jupyter
