@@ -1,0 +1,15 @@
+seaborn
+gap-stat
+numpy
+scikit-learn
+pandas
+matplotlib
+dash
+plotly
+dash-cytoscape
+pydantic
+tabulate
+IPython
+pydotplus
+dtreeviz
+jupyter
