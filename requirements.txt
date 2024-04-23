@@ -13,4 +13,5 @@ IPython
 pydotplus
 dtreeviz
 scipy
+imblearn
 jupyter
